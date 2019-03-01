@@ -5,3 +5,7 @@ body {
 #content {
     color: white;
 }
+
+ul {
+    list-style-type: square;
+}

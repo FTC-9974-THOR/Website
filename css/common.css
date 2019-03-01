@@ -108,3 +108,11 @@ a:hover {
 .dropdown-item:hover {
     background-color: #22ff22;
 }
+
+.ul {
+    text-decoration: underline;
+}
+
+.b {
+    font-weight: 1000;
+}
