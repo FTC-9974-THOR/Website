@@ -1,9 +1,4 @@
 $(document).ready(function () {
-    $('a[href^="#"]').click(function(e) {
-        e.preventDefault()
-        $(window).stop(true).scrollTo(this.hash, {duration:1000, interrupt:true})
-    })
-    
     var currentSlide = 0;
     var slideElements = $(".slide")
     for (var i = 1; i < slideElements.length; i++) {
