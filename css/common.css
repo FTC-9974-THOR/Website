@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-    color: #22ff22;
+    color: #44ff44;
 }
 
 #hole-fill {
@@ -99,7 +99,7 @@ a:hover {
     right: 0px;
     text-align: center;
     padding: 12px;
-    font-size: 18px;
+    font-size: 4vw;
     background-color: #00ee00;
     color: white;
     transition: background-color 0.25s;
